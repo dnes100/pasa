@@ -1,5 +1,4 @@
-# pasa
-pasa [=friend]
+
 
 
 # README
